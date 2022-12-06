@@ -1,0 +1,15 @@
+.mainContainer{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    border: 2px solid green;
+    background-color: aqua;
+    border-color:red;
+    width: 200px;
+    margin: auto;
+    border-radius: 25px;
+    padding-bottom: 10px;
+}
+p{
+    color: darkcyan;
+}
